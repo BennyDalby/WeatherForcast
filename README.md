@@ -5,4 +5,4 @@ This iOS iPhone application displays the Weather forcast information about the r
 Uses the Google maps api and the Forcast.io api to pull data inot the application.
 Given below are the screen shots of the application.
 
-![alt tag](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROaNgzvn0AheSI2J0qG29uTzyPFwFfHgGm2-9CrzxzWjcN67yF)
+![alt tag]()
