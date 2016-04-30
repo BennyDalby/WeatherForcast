@@ -13,7 +13,7 @@
 - (void)awakeFromNib {
     // Initialization code
     
-    //self.backgroundColor=[UIColor colorWithRed:20/255 green:190/255 blue:210/255 alpha:1.0];
+   
 }
 
 
